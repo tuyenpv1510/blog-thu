@@ -1,3 +1,4 @@
+/* CSS chung cua ca 3 trang */
 .header img {
     width: 80px;
     height: 80px;
@@ -32,35 +33,4 @@
 
 .header .title {
     padding-top: 25px;
-}
-
-.content .background img {
-    width: 90%;
-    height: 400px;
-    margin: 30px;
-}
-
-/* .content .avatar {
-    border: solid;
-} */
-
-.content .avatar img {
-    width: 300px;
-    height: 400px;
-    
-}
-
-.content .avatar .info1 {
-    font-size: 20px;
-}
-
-.content3 {
-    font-size: 20px;
-    
-}
-
-.content1 {
-    display: flex;
-    justify-content: space-around;
-    margin: 30px;
 }
