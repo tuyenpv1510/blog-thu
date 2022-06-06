@@ -1,1 +1,84 @@
 /* CSS cua trang Resume */
+
+.content .resume{
+    font-size: 50px;
+    margin-left: 200px;
+    border-bottom: solid;
+    padding-bottom: 30px;
+}
+
+.content-1 {
+    margin-left: 200px;
+}
+
+#name{
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#Summary {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+}
+
+#Expertise {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+table, th, td {
+    border-bottom:1px solid rgb(244, 239, 239);
+    margin: 10px;
+}
+
+
+
+#Working-Experiences {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
+#Insights-Studio {
+    font-size: 25px;
+    padding-bottom: 30px;
+}
+
+#coc-coc {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#Bravebits {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
+#Techkids {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+}
+
+#Projects {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;  
+} 
+
+#Education {
+    font-size: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+}
+
+
+
+
+
+
