@@ -34,3 +34,19 @@
 .header .title {
     padding-top: 25px;
 }
+
+.footer {
+    margin-left: 700px;
+}
+
+.footer , p {
+    font-size: 20px;
+}
+
+.icon , img {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+

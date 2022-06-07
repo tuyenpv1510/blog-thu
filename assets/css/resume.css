@@ -3,7 +3,7 @@
 .content .resume{
     font-size: 50px;
     margin-left: 200px;
-    border-bottom: solid;
+    border-bottom: solid 1px;
     padding-bottom: 30px;
 }
 
